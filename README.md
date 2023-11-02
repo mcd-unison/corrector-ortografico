@@ -1,6 +1,11 @@
-# Autocorrector ortográfico en español
+![](http://congresoingenierias.unicaribe.mx/img/logo_ucaribe.svg)
 
-Taller *Autocorrector ortográfico en español* para la **VII Edición  del  Congreso  de  Estudiantes  de  Ingeniería**  de  la  *Universidad  del  Caribe*. 
+
+## Aprendizaje automático: Diseño de un corrector ortográfico
+
+[**VII Edición  del  Congreso  de  Estudiantes  de  Ingeniería**](http://congresoingenierias.unicaribe.mx/index#inicio) 
+
+[*Universidad  del  Caribe*](http://unicaribe.mx). 
 
 Impartido por Olivia Gutú [`olivia.gutu@unison.mx`](olivia.gutu@unison.m)
 
