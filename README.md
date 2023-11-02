@@ -3,7 +3,7 @@
 
 ## Aprendizaje automático: Diseño de un corrector ortográfico
 
-[**VII Edición  del  Congreso  de  Estudiantes  de  Ingeniería**](http://congresoingenierias.unicaribe.mx/index#inicio) 
+Taller para la [**VII Edición  del  Congreso  de  Estudiantes  de  Ingeniería**](http://congresoingenierias.unicaribe.mx/index#inicio) 
 
 [*Universidad  del  Caribe*](http://unicaribe.mx). 
 
